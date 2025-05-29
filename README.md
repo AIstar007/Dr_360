@@ -1,4 +1,4 @@
-# 🤖 Dr 360 - Healthcare Assistant
+# 🤖 Dr.360 - Healthcare Assistant
 
 ## 🚀 Overview
 **Dr 360** is a comprehensive healthcare assistant application meticulously crafted to cater to a multitude of health-related scenarios. The app empowers users with a variety of tools and resources to manage and monitor their health effectively. It is designed to provide users with reliable information, personalized health tracking, and easy access to health-related data.
